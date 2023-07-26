@@ -1,5 +1,5 @@
 # City-problem
-A problem that was given as a test during one oop exams in university. The classes person and building, and the inheriting ones were used to print information about the people in a certain building. Also the average salaries were printed.
+A problem that was given as a test during one oop exam in university. The classes person and building, and the inheriting ones were used to print information about the people in a certain building. Also the average salaries were printed.
 The output will consist of statistics about the settlement created using these buildings as follows:
 
 Type: The type of settlement. This type can be "Village," "Town," or "Capital." To determine the type of settlement, the following conditions must be met:
